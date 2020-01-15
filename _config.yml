@@ -22,6 +22,7 @@ defaults:
       layout: "post"
 
 future: true
+timezone: America/Los_Angeles
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
