@@ -23,6 +23,7 @@ defaults:
 
 future: true
 timezone: America/Los_Angeles
+incremental: false
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
